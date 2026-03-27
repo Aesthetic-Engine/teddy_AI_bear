@@ -1,0 +1,41 @@
+.git/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local memory and private conversation history
+memory/
+openclaw-workspace/
+workspace/memory/
+*.sqlite3
+
+# Generated runtime artifacts
+tmp/
+grading/artifacts/
+grading/reports/
+*.wav
+*.log
+
+# Licensed or machine-local model assets
+tts/voices/
+tts/downloads/
+tts/piper/
+tools/downloads/
+tools/rhubarb/
+ollama-models/
+
+# Private archives and research history
+Teddy Present/
+Teddy's Past/
+Chatbot Memory Architecture Research.md
+Voice Assistant Wake Latency Research.md
+Teddy Retrospective - Project Teddy 1.0 to 2.0.md
+Teddy Retrospective - Project Teddy 1.0 to 2.0.pdf
+Teddy System Specification and Improvement Priorities.md
+build_retrospective_pdf.py
+
+# Legacy OpenClaw-era code not used in the public runtime
+runtime/openclaw_client.py

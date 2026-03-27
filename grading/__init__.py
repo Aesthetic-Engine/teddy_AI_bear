@@ -1,0 +1,2 @@
+"""Automated Teddy grading harness."""
+

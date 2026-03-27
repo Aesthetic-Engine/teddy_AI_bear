@@ -1,0 +1,7 @@
+# Teddy MVP runtime dependencies.
+fastapi
+pyserial
+pyttsx3
+sounddevice
+uvicorn
+vosk
