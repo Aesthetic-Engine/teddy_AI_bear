@@ -266,11 +266,7 @@ For local TTS voices:
 - Piper releases: https://github.com/rhasspy/piper/releases
 - Piper voice list: https://github.com/rhasspy/piper/blob/master/VOICES.md
 
-For stronger Fallout-style voice options, install Mantella for Fallout 4 and browse the Piper voice models in `F4SE\Plugins\MantellaSoftware\piper\models\fallout4`:
-- Mantella Fallout 4 download: https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=309019&game_id=1151
-- Mantella project page: https://github.com/art-from-the-machine/Mantella
-
-If you want the closest approximation to Teddy's current voice, start by trying `fallout4-dlc01robotcompanionmaledefault`.
+Choose a Piper voice that fits the personality and tone you want for Teddy.
 
 ## Not Included
 
